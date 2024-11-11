@@ -1,4 +1,4 @@
-key = "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"
+key = ""
 
 from openai import OpenAI
 
