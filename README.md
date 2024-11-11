@@ -1,6 +1,6 @@
 # TriLearn
 
-Team: JHAK
+Team: JHAK <br/>
 Team members: Jenson Joseph, Hwayeon Kang, Amir Miresmaeili, Ke Wang
 
 Our educational chatbot is designed to help users learn new concepts and test their understanding.
