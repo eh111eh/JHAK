@@ -28,10 +28,10 @@ The system consists of three LLM-based agents: ***Teacher***, ***Student***, and
 
 ## Project Structure
 ```
-├── whisper_speech_recognition.py   # ASR module
-├── neuphonic_texttospeech.py       # TTS module
-├── ollama_llm.py                   # LLM chat module
-├── main.py                         # Main integration program
-├── README.md                       # Documentation
-└── requirements.txt                # Dependencies
+├──    # 
+├──    #
+├──    #
+├──    #
+├──    #
+└──    #
 ```
