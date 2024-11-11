@@ -10,7 +10,7 @@ Richard Feynman, a Nobel laureate in Physics, was not only a brilliant scientist
 Feynman’s learning technique consists of four steps:
 
 1. Select a concept to learn.
-2. Teach it as if explaining to a child.
+2. Teach it to a child.
 3. Review and refine your understanding.
 4. Organize your notes and revisit them regularly.
 
@@ -25,8 +25,6 @@ The system consists of three LLM-based agents: ***Teacher***, ***Student***, and
 - **Student**: Based on the summary provided by the Teacher, the Student agent assesses the user’s understanding by asking follow-up questions. From this conversation, the Student generates another summary note that reflects the user's level of comprehension.
 
 - **Marker**: The Marker compares the two summaries—one from the Teacher and one from the Student—to evaluate the user’s understanding of the topic. If there are any gaps in understanding, the Marker provides feedback to help the user address them.
-
-Maslow's Hierarchy of Needs
 
 ## Project Structure
 ```
