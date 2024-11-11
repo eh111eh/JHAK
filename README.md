@@ -2,7 +2,7 @@
 
 Our educational chatbot is designed to help users learn new concepts and test their understanding.
 
-(schematic diagram of the model)
+<img width="632" alt="Screenshot 2024-11-11 at 20 05 04" src="https://github.com/user-attachments/assets/4aa748ae-3791-42a8-8c77-176260eb97f5">
 
 The system consists of three LLM-based agents: ***Teacher***, ***Student***, and ***Marker***.
 
