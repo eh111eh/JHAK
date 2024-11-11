@@ -16,7 +16,7 @@ Feynman’s learning technique consists of four steps:
 
 Our educational chatbot is designed to apply ***the Feynman Technique***, helping users learn new concepts and test their understanding.
 
-<img width="632" alt="Screenshot 2024-11-11 at 20 05 04" src="https://github.com/user-attachments/assets/4aa748ae-3791-42a8-8c77-176260eb97f5">
+<img width="807" alt="Screenshot 2024-11-11 at 20 49 41" src="https://github.com/user-attachments/assets/1ad7e2e5-9e88-47fe-be74-12efee5f76b2">
 
 The system consists of three LLM-based agents: ***Teacher***, ***Student***, and ***Marker***.
 
