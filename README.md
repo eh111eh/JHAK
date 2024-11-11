@@ -1,7 +1,7 @@
 # TriLearn
 
 Team: JHAK <br/>
-Team members: Jenson Joseph, Hwayeon Kang, Amir Miresmaeili, Ke Wang
+Team members: [Jenson Joseph](https://github.com/JJsupercoder), Hwayeon Kang, [Amir Miresmaeili](https://github.com/amirfarjam), [Ke Wang](https://github.com/Vicky-0256)
 
 Our educational chatbot is designed to help users learn new concepts and test their understanding.
 
